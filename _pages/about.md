@@ -35,7 +35,7 @@ My research interest includes 3D computer vision, human-centric understanding.
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IROS 2025</div><img src='images/Stage.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[STAGE: A Stream-Centric Generative World Model for Long-Horizon Driving-Scene Simulation](https://www.arxiv.org/abs/2506.13138)
+[STAGE: A Stream-Centric Generative World Model for Long-Horizon Driving-Scene Simulation]
 
 Jiamin Wang, **Yichen Yao**, Xiang Feng, Hang Wu, Yaming Wang, Qingqiu Huang, Yuexin Ma, Xinge Zhu
 </div>
