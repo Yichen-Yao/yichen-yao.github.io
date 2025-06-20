@@ -23,6 +23,7 @@ My research interest includes 3D computer vision, human-centric understanding.
 
 
 # 🔥 News
+- *2025.06*: &nbsp;🎉🎉 1 paper accepted to IROS 2025!
 - *2024.12*: &nbsp;🎉🎉 1 paper accepted to AAAI 2025!
 - *2024.07*: &nbsp;🎉🎉 1 paper accepted to ACM Multimedia 2024!
 - *2024.07*: &nbsp;🎉🎉 1 paper accepted to ECCV 2024!
@@ -31,6 +32,15 @@ My research interest includes 3D computer vision, human-centric understanding.
 - *2023.07*: &nbsp;🎉🎉 1 paper accepted to ICCV 2023!
 
 # 📝 Publications 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='images/STAGE.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[STAGE: A Stream-Centric Generative World Model for Long-Horizon Driving-Scene Simulation](https://www.arxiv.org/abs/2506.13138)
+
+Jiamin Wang, **Yichen Yao**, Xiang Feng, Hang Wu, Yaming Wang, Qingqiu Huang, Yuexin Ma, Xinge Zhu
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='images/IDKB.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
